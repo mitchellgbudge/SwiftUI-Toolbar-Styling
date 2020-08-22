@@ -11,7 +11,7 @@ import SwiftUI
 struct SwiftUI_Toolbar_StylingApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ToolbarPlacementListView()
         }
     }
 }
